@@ -9,7 +9,7 @@ This is fun.
 
 ### image link
 
-![](https://github.com/MK316/S24/raw/main/img-sample.png)
+![](https://github.com/MK316/S24/blob/main/img-samples.png)
 
 
 ---
