@@ -5,7 +5,11 @@
 This is fun.
 
 + My first python notebook.
-+ This is the second item.
++ My profie.
+
+### image link
+
+![](https://github.com/MK316/S24/raw/main/img-sample.png)
 
 
 ---
