@@ -1,6 +1,6 @@
-# 🌿 S24
+# 🌿 Spring 2024
 🌿🌿🌿🌿🌿
-## Digital literacy and English Education
+## Course title: 
 
 This is fun.
 
