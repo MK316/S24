@@ -4,7 +4,7 @@
 
 This is fun.
 
-+ This is the first item.
++ My first python notebook.
 + This is the second item.
 
 
